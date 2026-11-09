@@ -683,7 +683,6 @@
         {
             "continent_id":102191581,
             "country_id":85632997,
-            "macroregion_id":404227355,
             "region_id":85681713
         }
     ],
@@ -700,7 +699,7 @@
     ],
     "wof:lastmodified":1695885160,
     "wof:name":"Brussels-Capital Region",
-    "wof:parent_id":404227355,
+    "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:placetype_alt":[
         "county"
